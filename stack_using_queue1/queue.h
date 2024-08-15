@@ -1,7 +1,7 @@
-#ifndef QUEUE_ARRAY_H_INCLUDED
-#define QUEUE_ARRAY_H_INCLUDED
+#ifndef QUEUE_H_INCLUDED
+#define QUEUE_H_INCLUDED
 
-#define MAX 3
+#define MAX 10
 
 typedef int entry_type;
 
@@ -22,5 +22,4 @@ int queue_size (Queue *pq);
 void traverse_queue (Queue *pq,void (*pf) (entry_type));
 void clear_queue (Queue *pq);
 
-
-#endif // QUEUE_ARRAY_H_INCLUDED
+#endif // QUEUE_H_INCLUDED

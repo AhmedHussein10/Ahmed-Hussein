@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1723565002 source:c:\users\ahmed\desktop\2\list.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1723565036 c:\users\ahmed\desktop\2\list.h
+

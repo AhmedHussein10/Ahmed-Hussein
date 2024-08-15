@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1723468263 source:c:\users\ahmed\desktop\queue_using_stack1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+	"queue_using_stack1.h"
+
+1723464652 c:\users\ahmed\desktop\queue_using_stack1\stack.h
+
+1723468410 c:\users\ahmed\desktop\queue_using_stack1\queue_using_stack1.h
+	"stack.h"
+
+1723455117 source:c:\users\ahmed\desktop\queue_using_stack1\stack.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1723468425 source:c:\users\ahmed\desktop\queue_using_stack1\queue_using_stack1.c
+	<stdio.h>
+	<stdlib.h>
+	"queue_using_stack1.h"
+	"stack.h"
+

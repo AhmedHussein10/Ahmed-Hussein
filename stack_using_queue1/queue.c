@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "queue_array.h"
+#include "queue.h"
 
 void creat_queue (Queue *pq)
 {
